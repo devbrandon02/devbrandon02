@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9927
-Fork on GitHub
-2454
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Brando Rodriguez</h1>
 <h3 align="center">Fullstack developer lover of continuous learning, I currently manage Frontend Technologies: React, Vuejs, Svelte. In Backend technologies: Nodejs, Express.js, Golang I also have knowledge in Docker and Kubernetes</h3>
