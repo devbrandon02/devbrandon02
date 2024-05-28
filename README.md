@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Brando Rodriguez Torres</h1>
+Hi 👋, I'm Brando Rodriguez Torres</h1>
 <h3 align="center">Software Developer | Semi-Senior | Full Stack | Desarrollador web | Front-End | Back-End | Mobile |🧑‍🎓👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbrandon02&label=Profile%20views&color=0e75b6&style=flat" alt="devbrandon02" /> </p>
